@@ -1,9 +1,7 @@
 # UDsearch
 Small draft of a website to search/view the contents of [UnreleasedDisco](https://reddit.com/r/UnreleasedDisco) via [unreleased.cloud](https://unreleased.cloud/d/).
 
-https://idkjames.github.io/UDsearch/other/demo.mp4
-
----
+https://user-images.githubusercontent.com/63654278/186378849-2db81a89-c95d-47f7-a04f-31b967ba1e49.mp4
 
 Draft so current issues:
 - all lowercase search will bring up 404
